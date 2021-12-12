@@ -4,7 +4,7 @@
 
 The purpose of this project is to develop a website that allows users to explore different UFO sightings and provide easy and comprehensive filters to dig further into the data.
 
-##Results
+## Results
 
 When a user first enters the site they are greeted with the entire data set within the table, with the filter options on the left side.
 ![table_all_data](https://user-images.githubusercontent.com/16244455/145726060-0ef31a5b-bf4d-43f5-afdf-02e0addf8e1f.png)
